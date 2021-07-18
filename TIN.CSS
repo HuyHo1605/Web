@@ -1,12 +1,2 @@
-
-div {
-    width: 70px;
-    height: 300px;
-    border: 1px solid #c3c3c3;
-    display: flex;
-    flex-wrap: wrap;
-    align-content: center;
-  }
-div{background-color:lightgray;
-    color:yellow
-    all:initial}
+body{background-color: lightgray;}
+body{text-decoration-color: yellow;}
