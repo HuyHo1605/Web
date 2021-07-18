@@ -1,5 +1,6 @@
 body{background-color: lightgray;}
 h1{color: yellow;}
+div{animation:mymove 5s;}
 div {
     animation-play-state:paused;
   }
