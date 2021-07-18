@@ -8,4 +8,6 @@ div {
   div {
     animation-duration: 3s;
   }
-  
+  div {
+    animation-timing-function: linear;
+  }
