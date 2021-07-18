@@ -1,2 +1,12 @@
 body{background-color: lightgray;}
 div{animation-timing-function: linear;}
+#div1 {
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+  }
+  
+  #div2 {
+    -webkit-backface-visibility: visible; /* Safari */
+    backface-visibility: visible;
+  }
+  
