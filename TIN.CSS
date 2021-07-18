@@ -7,3 +7,6 @@ div {
     flex-wrap: wrap;
     align-content: center;
   }
+div{background-color:lightgray;
+    color:yellow
+    all:initial}
