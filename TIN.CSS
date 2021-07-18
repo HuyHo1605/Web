@@ -3,4 +3,7 @@ h1{color: yellow;}
 div{animation:mymove 5s;
     animation-play-state:paused;
     }
-  
+    div {
+        animation-duration: 3s;
+      }
+      
