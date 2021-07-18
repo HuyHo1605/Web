@@ -1,13 +1,2 @@
 body{background-color: lightgray;}
-div {
-    animation: mymove 5s infinite;
-  }
-  div {
-    animation-name: mymove;
-  }
-  div {
-    animation-duration: 3s;
-  }
-  div {
-    animation-timing-function: linear;
-  }
+div{animation-timing-function: linear;}
