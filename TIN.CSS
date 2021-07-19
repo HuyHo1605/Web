@@ -1,5 +1,5 @@
 body{background-image: url("https://image.freepik.com/free-vector/weather-seamless-pattern-background-vector-cute-doodle-illustration-kids_53876-105731.jpg");}
-h1{color:rgb(42, 157, 143);}
+h1{color:rgb(2, 48, 71);}
 b{color:rgb(233, 196, 106);}
 b1{color:rgb(231, 111, 81)}
 i{color:rgb(244, 162, 97)}
@@ -8,6 +8,7 @@ b{background-color: rgb(38, 70, 83);}
 b1{background-color: rgb(38, 70, 83);}
 i{background-color: rgb(38, 70, 83);}
 a{background-color: rgb(38, 70, 83);}
-b1{font-family:Georgia, 'Times New Roman', Times, serif;}
-i{font-family:serif;}
-b{font-family: sans-serif;}
+h1{font-family: 'Times New Roman', Times, serif ;}
+b1{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+i{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+a{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
